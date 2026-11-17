@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "VIBE",
+    "slug": "vibe-busca-musical",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {},
+    "web": {}
+  }
+}
