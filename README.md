@@ -1,6 +1,6 @@
 # VIBE — Busca Musical
 
-Aplicativo mobile simples de busca musical, desenvolvido como atividade acadêmica (Engenharia de Software — Faculdade Senac). O usuário digita o nome de uma música ou artista e visualiza os resultados retornados por uma API pública.
+Aplicativo mobile simples de busca musical, desenvolvido como atividade acadêmica (CODING: MOBILE — Faculdade Senac). O usuário digita o nome de uma música ou artista e visualiza os resultados retornados por uma API pública.
 
 ## Tecnologias utilizadas
 
